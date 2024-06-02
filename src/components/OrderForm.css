@@ -1,43 +1,43 @@
-.order-form {
-    background-color: #fff;
-    padding: 2rem;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    margin: 2rem 0;
-  }
-  
-  .order-form h2 {
-    color: #333;
-  }
-  
-  .order-form label {
-    display: block;
-    margin: 1rem 0 0.5rem;
-  }
-  
-  .order-form input {
-    width: 100%;
-    padding: 0.5rem;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-  }
-  
-  .order-form button {
-    background-color: #333;
-    color: #fff;
-    padding: 0.75rem;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    margin-top: 1rem;
-  }
-  
-  .order-form button:hover {
-    background-color: #555;
-  }
-  
-  .error {
-    color: red;
-    margin-top: 1rem;
-  }
-  
+.order-form-section {
+  padding: 60px 0;
+  background-color: #f9f9f9;
+}
+
+#preorder-form {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: auto;
+}
+
+#preorder-form label {
+  font-size: 1.2em;
+  margin: 10px 0 5px 0;
+}
+
+#preorder-form input {
+  padding: 10px;
+  font-size: 1em;
+  margin-bottom: 20px;
+}
+
+#preorder-form button {
+  padding: 15px;
+  font-size: 1.2em;
+  background-color: #ff6200;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+#preorder-form button:hover {
+  background-color: #e55a00;
+}
+
+#form-message {
+  text-align: center;
+  font-size: 1.2em;
+  margin-top: 20px;
+  color: green;
+}

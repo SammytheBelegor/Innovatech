@@ -1,18 +1,17 @@
 import React from 'react';
 import './ContactInfo.css';
 
-function ContactInfo() {
+const ContactInfo = () => {
   return (
-    <div className="contact-info">
-      <h2>Contact Us</h2>
-      <p>
-        For more information about Innovatech VR Pro, please contact us at:
-      </p>
-      <p>Email: support@innovatech.com</p>
-      <p>Phone: +1-800-123-4567</p>
-      <p>Address: 123 Innovatech Street, Tech City, USA</p>
-    </div>
+    <section className="contact-info-section">
+      <div className="container">
+        <h2 className="section-title">Contact Us</h2>
+        <p>Email: support@innovatech.com</p>
+        <p>Phone: +1 234 567 890</p>
+        <p>Address: 123 Tech Avenue, Silicon Valley, CA</p>
+      </div>
+    </section>
   );
-}
+};
 
 export default ContactInfo;

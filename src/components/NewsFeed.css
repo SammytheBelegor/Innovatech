@@ -1,25 +1,16 @@
-.news-feed {
-    margin: 2rem 0;
-  }
-  
-  .news-feed h2 {
-    color: #333;
-  }
-  
-  .news-feed article {
-    background-color: #fff;
-    padding: 1rem;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    margin: 1rem 0;
-  }
-  
-  .news-feed article h3 {
-    color: #333;
-  }
-  
-  .news-feed article p {
-    color: #666;
-    line-height: 1.6;
-  }
-  
+.news-feed-section {
+  padding: 60px 0;
+  background-color: #fff;
+}
+
+.news-item {
+  margin-bottom: 20px;
+}
+
+.news-item h3 {
+  font-size: 1.8em;
+}
+
+.news-item p {
+  font-size: 1.2em;
+}
