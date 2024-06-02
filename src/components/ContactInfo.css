@@ -1,0 +1,17 @@
+.contact-info {
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 2rem 0;
+  }
+  
+  .contact-info h2 {
+    color: #333;
+  }
+  
+  .contact-info p {
+    color: #666;
+    line-height: 1.6;
+  }
+  

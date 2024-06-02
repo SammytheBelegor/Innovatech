@@ -1,0 +1,19 @@
+.product-page {
+    text-align: center;
+    margin: 2rem 0;
+  }
+  
+  .product-page img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .product-page h2 {
+    color: #333;
+  }
+  
+  .product-page p {
+    color: #666;
+    line-height: 1.6;
+  }
+  
