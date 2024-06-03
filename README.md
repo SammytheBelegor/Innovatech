@@ -28,7 +28,7 @@ Innovatech is a cutting-edge technology company specializing in developing and s
 
 ## Deployment
 
-![Deployment link](https://sammythebelegor.github.io/Innovatech/)
+[Deployment link](https://sammythebelegor.github.io/Innovatech/)
 
 ## Screenshots
 
