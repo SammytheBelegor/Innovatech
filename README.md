@@ -27,14 +27,12 @@ Innovatech is a cutting-edge technology company specializing in developing and s
 
 ## Screenshots
 
-![Product Page](screenshots/product-page.png)
-![Order Form](screenshots/order-form.png)
-![News Feed](screenshots/news-feed.png)
-![Contact Information](screenshots/contact-info.png)
+![Google drive link](https://drive.google.com/drive/folders/1oZ7P3w6tVA_E-OAPewMGECNtYRg_6Brc?usp=sharing)
+
 
 ## Video description of work
 
-[Video link](https://www.youtube.com/watch?v=your_video_id)
+[Google drive link](https://drive.google.com/drive/folders/1oZ7P3w6tVA_E-OAPewMGECNtYRg_6Brc?usp=sharing)
 
 ## Getting Started
 
