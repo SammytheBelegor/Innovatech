@@ -2,6 +2,7 @@
   "name": "innovatech-vr-pro",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://SammytheBelegor.github.io/Innovatech",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
@@ -34,6 +35,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.14.5",
     "gh-pages": "^4.0.0"
   }
 }
