@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SammytheBelegor/Innovatech.git/static/css/main.05ce9e81.css",
+    "main.js": "/SammytheBelegor/Innovatech.git/static/js/main.003fc7e1.js",
+    "static/media/hero-bg.jpg": "/SammytheBelegor/Innovatech.git/static/media/hero-bg.6d5dada56f67e0ef2c58.jpg",
+    "index.html": "/SammytheBelegor/Innovatech.git/index.html",
+    "main.05ce9e81.css.map": "/SammytheBelegor/Innovatech.git/static/css/main.05ce9e81.css.map",
+    "main.003fc7e1.js.map": "/SammytheBelegor/Innovatech.git/static/js/main.003fc7e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05ce9e81.css",
+    "static/js/main.003fc7e1.js"
+  ]
+}
