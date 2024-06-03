@@ -25,6 +25,11 @@ Innovatech is a cutting-edge technology company specializing in developing and s
 - **How do I handle form validation?**
   - Use simple client-side validation in the `OrderForm` component using React state and conditional rendering for error messages.
 
+
+## Deployment
+
+![Deployment link](https://sammythebelegor.github.io/Innovatech/)
+
 ## Screenshots
 
 ![Google drive link](https://drive.google.com/drive/folders/1oZ7P3w6tVA_E-OAPewMGECNtYRg_6Brc?usp=sharing)
